@@ -1,0 +1,12 @@
+Variables de Frecuencia y Estructura 
+Relación 
+Estas variables están relacionadas por medir patrones recurrentes o características 
+estructurales predefinidas. La Frecuencia Termino Clave mide la repetición de un elemento 
+léxico, mientras que la Metrica Coro Silabas mide la repetición de un patrón sonoro o 
+rítmico. 
+Similitudes 
+Medida de Patrón: Ambas miden la repetición o recurrencia de un elemento específico 
+dentro del contenido (un término léxico o una unidad sonora/rítmica). 
+Uniformidad: Ambas variables presentan el mismo valor exacto (8 y 6 para los tres idiomas, 
+lo que sugiere que estas métricas podrían estar relacionadas con un objetivo de diseño o un 
+estándar común al crear el contenido en los tres idiomas.
