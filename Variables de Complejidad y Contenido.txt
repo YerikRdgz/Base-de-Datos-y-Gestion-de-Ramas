@@ -1,0 +1,13 @@
+Variables de Complejidad y Contenido 
+Relación 
+Ambas variables miden la complejidad o densidad del lenguaje, aunque desde perspectivas 
+diferentes:
+El Promedio Silabas Por Palabra mide la complejidad morfológica o estructural 
+(qué tan "largas" son las palabras). 
+El Conteo Modismos mide la complejidad idiomática (el uso de frases con significado 
+no literal). 
+Similitudes 
+Enfoque Lingüístico: Ambas se centran en las características internas del lenguaje (la 
+palabra y la frase) y van más allá del simple conteo de palabras. 
+Medición de Densidad: Ambas contribuyen a medir la densidad de información y la 
+naturalidad/formalidad del lenguaje.
