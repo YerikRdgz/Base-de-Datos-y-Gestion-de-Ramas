@@ -1,0 +1,11 @@
+Variables de Duración Temporal
+Relación 
+Ambas variables miden el tiempo y la estructura temporal. La Duracion Intro es una 
+parte constituyente y está intrínsecamente relacionada con la Duracion Segundos, ya 
+que la duración total es la suma de la duración del cuerpo principal del contenido más la 
+duración de la introducción (aunque en esta tabla, la Duracion Segundos parece ser la 
+duración total). 
+Similitudes 
+Unidad de Medida: Ambas utilizan el segundo como unidad estandarizada, haciendo que las 
+medidas sean directamente comparables. 
+Tipo de Métrica: Ambas son métricas de tiempo que definen la extensión del contenido.
