@@ -1,0 +1,12 @@
+
+Variables Categóricas e Interlingüísticas
+Relación 
+Estas variables establecen el contexto fundamental. El Idioma es la variable 
+independiente que clasifica las muestras. El Uso Lengua Adicional es una 
+característica binaria/categórica que describe la pureza lingüística del contenido respecto al 
+idioma principal. 
+Similitudes 
+Clasificación: Ambas se utilizan para clasificar o categorizar la muestra de contenido (por 
+idioma base y por presencia de otro idioma). 
+Naturaleza Lingüística: Ambas tratan sobre la identidad y composición idiomática del 
+contenido.
