@@ -1,0 +1,10 @@
+Variables de Conteo Léxico
+Relación 
+Están relacionadas por la lógica de conjunto y subconjunto. El Conteo Palabras 
+Unicas es una métrica derivada del Conteo Palabras Totales. Al calcular el ratio 
+(palabras únicas / palabras totales), se obtiene una medida de la diversidad léxica o riqueza 
+de vocabulario de la muestra. 
+Similitudes 
+Unidad de Medida: Ambas utilizan la palabra como unidad de conteo. 
+Tipo de Métrica: Ambas son métricas de cantidad léxica que miden el volumen y la variedad 
+del vocabulario utilizado.
